@@ -23,4 +23,4 @@ class Computador {
 
 let meuPC = new Computador("desktop","Ryzen 5 5600X","dedicado","1000","16",true)
 
-console.log(meuPC.exibir())
+meuPC.exibir()
